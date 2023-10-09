@@ -1,0 +1,55 @@
+.Question {
+    width: 1550px;
+    margin-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 0px;
+    text-align: left;
+  }
+  
+  .Feedback {
+    background-color: rgb(111, 107, 111);
+    margin-bottom: 10px;
+    margin-left: 0px;
+    display: block;
+  }
+  
+  .label-tag {
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .input-field,
+  .text-area {
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    width: 92%;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  
+  .Tags {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    width: 92%;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  
+  .post {
+    margin-top: 15px;
+  }
+  
+  .Description {
+    display: block; /* Use block to make it take up the full width */
+    margin-top: 10px;
+    padding: 10px;
+    width: 92%;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  
